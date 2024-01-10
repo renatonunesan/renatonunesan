@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=202a5f&text_color=945f80&title_color=cc9b7e&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=202a5f&text_color=945f80&title_color=cc9b7e&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1a365b&text_color=c56849&title_color=ffd435&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1a365b&text_color=c56849&title_color=ffd435&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
@@ -33,5 +33,5 @@
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d39c80,50:754e6b,100:202a5f&reversal=true&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd435,50:c56849,100:1a365b&reversal=true&height=100&section=footer"/>
 </p>
