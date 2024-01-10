@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffd435,50:c56849,100:1a365b&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 
 <div align="center">
-<img src="" width="700px" />
+<img src="![Illustration](https://github.com/renatonunesan/renatonunesan/assets/153360955/9812db22-94a2-4fd6-a17d-a384fa5b2058)" width="700px" />
 </div>
 
 </div>
