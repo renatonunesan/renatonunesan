@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffd435,50:c56849,100:1a365b&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffe65a,50:c56849,100:1a365b&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 
 <div align="center">
 <img src="https://github.com/renatonunesan/renatonunesan/assets/153360955/87f4401a-ce1f-47fd-85c5-c578eca275ca" width="850px"/>
@@ -39,5 +39,5 @@
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd435,50:c56849,100:1a365b&reversal=true&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe65a,50:c56849,100:1a365b&reversal=true&height=100&section=footer"/>
 </p>
