@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:ffe65a,50:c56849,100:1a365b&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:a0ccfa,50:194b83,100:0f141e&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 
 <div align="center">
-<img src="https://github.com/renatonunesan/renatonunesan/assets/153360955/87f4401a-ce1f-47fd-85c5-c578eca275ca" width="850px"/>
+<img src="https://github.com/renatonunesan/renatonunesan/assets/153360955/fba36609-324c-4dbf-ac16-aaccee54ddca" width="850px"/>
 </div>
 
 </div>
@@ -26,8 +26,8 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1a365b&text_color=c56849&title_color=ffd435&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1a365b&text_color=c56849&title_color=ffd435&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0f141e&text_color=194b83&title_color=a0ccfa&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+   <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0f141e&text_color=194b83&title_color=a0ccfa&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
@@ -39,5 +39,5 @@
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe65a,50:c56849,100:1a365b&reversal=true&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a0ccfa,50:194b83,100:0f141e&reversal=true&height=100&section=footer"/>
 </p>
