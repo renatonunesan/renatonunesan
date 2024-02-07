@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:a0ccfa,50:194b83,100:0f141e&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:ACC6E7,25:4FC0E7,50:2766D2,75:162937,100:0B0E0E&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 
 <div align="center">
-<img src="https://github.com/renatonunesan/renatonunesan/assets/153360955/fba36609-324c-4dbf-ac16-aaccee54ddca" width="850px"/>
+<img src="https://github.com/renatonunesan/renatonunesan/assets/153360955/eb3ca7c5-e54f-49d4-83f9-871faa66e132" width="850px"/>
 </div>
 
 </div>
@@ -29,8 +29,8 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0f141e&text_color=194b83&title_color=a0ccfa&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0f141e&text_color=194b83&title_color=a0ccfa&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0f141e&text_color=003264&title_color=50c5e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0f141e&text_color=003264&title_color=50c5e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
@@ -42,5 +42,5 @@
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a0ccfa,50:194b83,100:0f141e&reversal=true&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACC6E7,25:4FC0E7,50:2766D2,75:162937,100:0B0E0E&reversal=true&height=100&section=footer"/>
 </p>
