@@ -4,7 +4,7 @@
 
 > I´m a passionate Front-end developer, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
 
-<p align="right"> <img src=https://github.com/renatonunesan/renatonunesan/assets/153360955/1841b881-32ef-4a97-96d5-c44fa2c8503f max-width="350px" width="350px" align="right" /> </p>
+<p align="right" > <img src=https://github.com/renatonunesan/renatonunesan/assets/153360955/cc9a4127-c830-44fb-858f-63d2cc095df2 width="350px" align="right" /> </p>
 
 <br>
 <h3>My stack :man_technologist::</h3>
