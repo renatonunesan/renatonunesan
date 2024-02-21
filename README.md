@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:FFF853,25:909092,50:4c4c4c,75:313031,100:1e1e1e&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
-<hr>
 <h3>About me:</h3>
 
 > I´m a passionate Front-end developer, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
@@ -31,18 +30,19 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+</div>
 
-<h2 align="center">Connect with me 🌐 </h2>
+<h3>Connect with me: </h3>
+
+>Let's connected and collaborating on exciting projects! reach me on [**`LinkedIn`**](https://www.linkedin.com/in/renatonunesan/)
 
 <div> 
-
   <a href="https://www.linkedin.com/in/renatonunesan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href ="mailto:renatonunesan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  
+  <a href ="mailto:renatonunesan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
    
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACC6E7,25:4FC0E7,50:2766D2,75:162937,100:0B0E0E&reversal=true&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACC6E7,25:4FC0E7,50:2766D2,75:162937,100:0B0E0E&reversal=true&height=100&section=footer"/>
 </p>
