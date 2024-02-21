@@ -3,30 +3,23 @@
 
 > I´m a passionate Front-end developer, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
 
-<p align="right" > <img src=https://github.com/renatonunesan/renatonunesan/assets/153360955/cc9a4127-c830-44fb-858f-63d2cc095df2 width="320px" align="right" /> </p>
+<hr>
 
-<br>
-<h3>My stack :man_technologist::</h3>
+<h3 align="center">My stack :man_technologist::</h3>
 
-
-
-<div align="left">
-  <img align="left" alt="html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="left" alt="css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="left" alt="javascript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="left" alt="react" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="left" alt="Java"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="left" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<div align="center">
+  <img align="center" alt="html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="react" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Java"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <br>  
 <br>
   <img alt="VScode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img alt="IntelliJ" width="125" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img alt="Eclipse" width="80" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </div>
-
-<br>
-<br>
-<br>
 
 <h3 align="center">My Github stats:</h3>
 
@@ -35,8 +28,6 @@
   <img width="34%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
-
-<br>
 
 <h3>Connect with me: </h3>
 
