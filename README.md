@@ -8,19 +8,20 @@
 <br>
 <h3>My stack :man_technologist::</h3>
 
+
+
 <div align="left">
-  <img align="left" alt="html5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="left" alt="css3" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="left" alt="html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="left" alt="css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="left" alt="javascript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="left" alt="react" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="left" alt="Java"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="left" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <br>  
 <br>
-  <img alt="IntelliJ" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-   <br>
-   <img alt="VScode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
-  <img alt="Eclipse" style="padding-right:10px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> 
-  <br>
+  <img alt="VScode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+  <img alt="IntelliJ" width="125" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="Eclipse" width="80" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </div>
 
 <br>
@@ -38,4 +39,4 @@
 
 <h3>Connect with me: </h3>
 
->Let's connected and collaborating on exciting projects! keep up with me on‎ ‎ ‎ [![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-yellow)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
+>Let's connected and collaborating on exciting projects! keep up with me on‎ ‎ ‎ [![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-yellow)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/renatonunesan@gmail.com-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
