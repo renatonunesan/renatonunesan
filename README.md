@@ -36,7 +36,7 @@
 
 <h3>Connect with me: </h3>
 
->Let's connected and collaborating on exciting projects! reach me on [**`LinkedIn`**](https://www.linkedin.com/in/renatonunesan/)
+>Let's connected and collaborating on exciting projects! reach me on [**`LinkedIn`**](https://www.linkedin.com/in/renatonunesan/) and [**`Gmail`**](mailto:renatonunesan@gmail.com)
 
 <div> 
   <a href="https://www.linkedin.com/in/renatonunesan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
