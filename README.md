@@ -1,28 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:ACC6E7,25:4FC0E7,50:2766D2,75:162937,100:0B0E0E&height=60&text=Hey,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
-
-<div align="center">
-<img src="https://github.com/renatonunesan/renatonunesan/assets/153360955/eb3ca7c5-e54f-49d4-83f9-871faa66e132" width="850px"/>
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:FFF853,25:909092,50:4c4c4c,75:313031,100:1e1e1e&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 </div>
+<h3>About me:</h3>
 
-</div>
+> I´m a passionate Front-end developer, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
 
-<h2 align="center">My stack :man_technologist:</h2>
+<br>
+<h3>My stack :man_technologist::</h3>
 
-<div align="center">
-  <div>
-  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <br />
-  <br />
+<div align="left">
+  <img align="left" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="left" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="left" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="left" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<br>  
+<br>
   <img alt="IntelliJ" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-   <br />
+   <br>
    <img alt="VScode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img alt="Eclipse" style="padding-right:10px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> 
-  <br />
-  
+  <br>
 </div>
 
 <h2 align="center">Github stats :bar_chart:</h2>
