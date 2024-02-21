@@ -38,8 +38,4 @@
 
 <h3>Connect with me: </h3>
 
->Let's connected and collaborating on exciting projects! keep up with me on‎ ‎ ‎ [![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-yellow)](https://www.linkedin.com/in/renatonunesan/) [![Gmail](https://img.shields.io/badge/Gmail-renatonunesan-red)](mail-to:renatonunesan@gmail.com/)
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF853,25:909092,50:4c4c4c,75:313031,100:1e1e1e&reversal=true&height=100&section=footer"/>
-</p>
+>Let's connected and collaborating on exciting projects! keep up with me on‎ ‎ ‎ [![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-yellow)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
