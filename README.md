@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:FFF853,25:909092,50:4c4c4c,75:313031,100:1e1e1e&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 <h3>About me:</h3>
 
-> I´m a passionate Front-end developer based in Brazil, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
+> I´m a Front-end developer based in Brazil, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
 
 <hr>
 
