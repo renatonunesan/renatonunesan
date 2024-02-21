@@ -36,13 +36,8 @@
 
 <h3>Connect with me: </h3>
 
->Let's connected and collaborating on exciting projects! reach me on [**`LinkedIn`**](https://www.linkedin.com/in/renatonunesan/) and [**`Gmail`**](mailto:renatonunesan@gmail.com)
+>Let's connected and collaborating on exciting projects! keep up with me on‎ ‎ ‎ [![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-yellow)](https://www.linkedin.com/in/renatonunesan/) [![Gmail](https://img.shields.io/badge/Gmail-renatonunesan-red)](mail-to:renatonunesan@gmail.com/)
 
-<div> 
-  <a href="https://www.linkedin.com/in/renatonunesan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href ="mailto:renatonunesan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
-   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACC6E7,25:4FC0E7,50:2766D2,75:162937,100:0B0E0E&reversal=true&height=100&section=footer"/>
 </p>
