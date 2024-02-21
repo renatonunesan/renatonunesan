@@ -4,6 +4,8 @@
 
 > I´m a passionate Front-end developer, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
 
+<p align="right"> <img src=https://github.com/renatonunesan/renatonunesan/assets/153360955/7fb81dd7-eafa-4358-aeb0-5ca273f42a73 max-width="400px" width="400px" align="right" /> </p>
+
 <br>
 <h3>My stack :man_technologist::</h3>
 
@@ -21,6 +23,7 @@
   <img alt="Eclipse" style="padding-right:10px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> 
   <br>
 </div>
+
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
