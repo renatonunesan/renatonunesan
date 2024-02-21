@@ -34,10 +34,12 @@
   <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
+<br>
+
 <h3>Connect with me: </h3>
 
 >Let's connected and collaborating on exciting projects! keep up with me on‎ ‎ ‎ [![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-yellow)](https://www.linkedin.com/in/renatonunesan/) [![Gmail](https://img.shields.io/badge/Gmail-renatonunesan-red)](mail-to:renatonunesan@gmail.com/)
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ACC6E7,25:4FC0E7,50:2766D2,75:162937,100:0B0E0E&reversal=true&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF853,25:909092,50:4c4c4c,75:313031,100:1e1e1e&reversal=true&height=100&section=footer"/>
 </p>
