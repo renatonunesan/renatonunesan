@@ -31,12 +31,12 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="34%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
 <br>
 
 <h3>Connect with me: </h3>
 
->Let's connected and collaborating on exciting projects! keep up with me on‎ ‎ ‎ [![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-yellow)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/renatonunesan@gmail.com-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
+>Let's connected and collaborating on exciting projects! reach me on‎ ‎ ‎[![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-yellow)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/renatonunesan@gmail.com-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
