@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:FFF853,25:909092,50:4c4c4c,75:313031,100:1e1e1e&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
-</div>
+<hr>
 <h3>About me:</h3>
 
 > I´m a passionate Front-end developer, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
@@ -10,11 +10,11 @@
 <h3>My stack :man_technologist::</h3>
 
 <div align="left">
-  <img align="left" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="left" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="left" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="left" alt="Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="left" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="left" alt="html5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="left" alt="css3" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="left" alt="javascript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Java"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="left" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <br>  
 <br>
   <img alt="IntelliJ" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -24,13 +24,15 @@
   <br>
 </div>
 
+<br>
+<br>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h3 align="center">My Github stats:</h3>
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0f141e&text_color=003264&title_color=50c5e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0f141e&text_color=003264&title_color=50c5e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 
 <h2 align="center">Connect with me 🌐 </h2>
 
