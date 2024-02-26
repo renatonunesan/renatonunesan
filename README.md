@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-  <img width="34%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=1e1e1e&text_color=4c4c4c&title_color=FFF853&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
 <h3>Connect with me: </h3>
