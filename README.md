@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1122&text_color=1543ac&title_color=80b6e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1122&text_color=1543ac&title_color=80b6e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1122&text_color=1543ac&title_color=80b6e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
