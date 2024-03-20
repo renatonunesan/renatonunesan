@@ -2,6 +2,7 @@
 <h3>About me:</h3>
 
 > I´m a Front-end developer based in Brazil, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
 <hr>
 
