@@ -10,8 +10,6 @@
 
 <h3 align="center">My stack <img width="30px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/405766f9-a713-4bcb-8e85-211d7f7e2f71"/> </h3>
 
-<a></a>
-
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
