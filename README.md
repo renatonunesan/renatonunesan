@@ -18,7 +18,6 @@
   <img align="center" alt="node" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Java"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
 <br>  
 <br>
   <img alt="VScode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
@@ -29,7 +28,6 @@
 <h3 align="center">My Github stats </h3>
 
 <div align="center">
-  <a href="https://github.com/renatonunesan">
   <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=000022&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=000022&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
