@@ -34,10 +34,12 @@
 
 <h3 align="center">Connect with me <img width="50px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
 
-[<h3 align="center">
-  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000022?style=for-the-badge&logo=linkedin&logoColor=2efdfe&color:00247b)](https://www.linkedin.com/in/renatonunesan/)
+<h3 align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000022?style=for-the-badge&logo=linkedin&logoColor=2efdfe&color:00247b)](https://www.linkedin.com/in/renatonunesan/)
   [![Instagram](https://img.shields.io/badge/-instagram-000022?style=for-the-badge&logo=instagram&logoColor=2efdfe&color:00247b)](https://www.instagram.com/renatonunesan/)
   [![Gmail Badge](https://img.shields.io/badge/gmail-000022?style=for-the-badge&logo=Gmail&logoColor=2efdfe&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
+
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:80b6e8,25:03C8FC,50:3269EA,75:153B82,100:0a1122&reversal=true&height=70&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:80b6e8,25:03C8FC,50:3269EA,75:153B82,100:0a1122&reversal=true&height=80&section=footer"/>
