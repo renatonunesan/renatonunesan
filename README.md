@@ -26,7 +26,12 @@
   <img alt="Eclipse" width="80" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </div>
 
-<h3 align="center">My Github stats</h3>
+<h3 align="center">My Github stats <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
+  alt="Cat with Tears of Joy"
+  width="25"
+  height="25"
+/></h3>
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
