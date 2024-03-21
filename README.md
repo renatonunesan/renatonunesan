@@ -38,6 +38,6 @@
 
 >Let's connected and collaborating on exciting projects! reach me on‎ ‎ ‎[![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-blue)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/renatonunesan@gmail.com-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
 
-<p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:80b6e8,25:03C8FC,50:3269EA,75:153B82,100:0a1122&reversal=true&height=100&section=footer"/>
+<p align="center">
+<img width="850px" height="200px" src="https://capsule-render.vercel.app/api?type=waving&color=0:80b6e8,25:03C8FC,50:3269EA,75:153B82,100:0a1122&reversal=true&height=100&section=footer"/>
 </p>
