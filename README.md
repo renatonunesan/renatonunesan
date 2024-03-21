@@ -34,7 +34,7 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=000022&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
-<h3 align="center">Connect with me </h3>
+<h3 align="center">Connect with me <img width="50px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
 
 [<h3 align="center">
   ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000022?style=for-the-badge&logo=linkedin&logoColor=2efdfe&color:00247b)](https://www.linkedin.com/in/renatonunesan/)
