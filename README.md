@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3 align="center">My stack :man_technologist::</h3>
+<h3 align="center">My stack <img width="40px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/405766f9-a713-4bcb-8e85-211d7f7e2f71"/> </h3>
 
 <div align="center">
   <img align="center" alt="html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -19,9 +19,6 @@
   <img align="center" alt="Java"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
-
-
-
 <br>  
 <br>
   <img alt="VScode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
