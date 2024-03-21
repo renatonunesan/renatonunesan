@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3 align="center">My stack <img width="40px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/405766f9-a713-4bcb-8e85-211d7f7e2f71"/> </h3>
+<h3 align="center">My stack <img width="30px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/405766f9-a713-4bcb-8e85-211d7f7e2f71"/> </h3>
 
 <div align="center">
   <img align="center" alt="html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -26,11 +26,10 @@
   <img alt="Eclipse" width="80" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </div>
 
-<h3 align="center">My Github stats <img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-  alt="Cat with Tears of Joy"
-  width="25"
-  height="25"
+<h3 align="center">My Github stats  <img
+  src="https://github.com/renatonunesan/renatonunesan/assets/153360955/e37bfbfd-7a84-479f-b1a2-2955c8fe839e"
+  width="20px"
+  height="20px"
 /></h3>
 
 <div align="center">
@@ -39,6 +38,6 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=000022&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
-<h3>Connect with me <img width="70px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/84e34743-e391-4334-b557-b24fac20aaf5"/>  </h3>
+<h3>Connect with me <img width="70px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/84e34743-e391-4334-b557-b24fac20aaf5"/></h3>
 
 >Let's connected and collaborating on exciting projects! reach me on‎ ‎ ‎[![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-blue)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/renatonunesan@gmail.com-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
