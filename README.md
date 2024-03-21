@@ -13,13 +13,13 @@
 <a></a>
 
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="blank"><img align="center" alt="html" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-  <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="node" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"></a>
-  <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+  <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+  <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
+  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="node" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"></a>
+  <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 <br>  
 <br>
   <img alt="VScode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
