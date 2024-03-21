@@ -36,6 +36,6 @@
 
 <h3>Connect with me <img width="70px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/84e34743-e391-4334-b557-b24fac20aaf5"/></h3>
 
->Let's connected and collaborating on exciting projects! reach me on‎ ‎ ‎[![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-blue)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/renatonunesan@gmail.com-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
+>Let's connected and collaborating on exciting projects! reach me on‎ ‎ ‎[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000022?style=for-the-badge&logo=linkedin&logoColor=2efdfe&color:00247b)](https://www.linkedin.com/in/mari4souza/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-000022?style=for-the-badge&logo=Gmail&logoColor=2efdfe&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
 
 
