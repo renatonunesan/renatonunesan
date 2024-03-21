@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:80b6e8,25:03C8FC,50:3269EA,75:153B82,100:0a1122&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 
-<img align="center" width="850px" alt="GIF" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/3b4a2d96-a4f1-483a-8167-dbcebfe480bf" />
+<img align="center" width="850px" alt="GIF" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/f2dd364e-6808-41b0-930a-69f011745254" />
 
 <h3>About me :</h3>
 
