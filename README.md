@@ -2,7 +2,7 @@
 
 <img align="center" width="850px" alt="GIF" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/3b4a2d96-a4f1-483a-8167-dbcebfe480bf" />
 
-<h3>About me</h3>
+<h3>About me :</h3>
 
 > I´m a Front-end developer based in Brazil, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
 
