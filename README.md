@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:80b6e8,25:466da0,50:1543ac,75:152448,100:0a1122&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:80b6e8,25:03C8FC,50:3269EA,75:153B82,100:0a1122&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+
+<img align="center" width="850px" alt="GIF" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/3b4a2d96-a4f1-483a-8167-dbcebfe480bf" />
+
 <h3>About me:</h3>
 
 > I´m a Front-end developer based in Brazil, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
-<img align="center" width="850px" alt="GIF" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/3b4a2d96-a4f1-483a-8167-dbcebfe480bf" />
 
 <hr>
 
@@ -31,10 +33,10 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-  <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1122&text_color=1543ac&title_color=80b6e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1122&text_color=1543ac&title_color=80b6e8&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0b1325&text_color=3269EA&title_color=03C8FC&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0b1325&text_color=3269EA&title_color=03C8FC&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
-<h3>Connect with me: </h3>
+<h3>Connect with me <img width="70px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/84e34743-e391-4334-b557-b24fac20aaf5"/> : </h3>
 
 >Let's connected and collaborating on exciting projects! reach me on‎ ‎ ‎[![LinkedIn](https://img.shields.io/badge/LinkedIn-renatonunesan-blue)](https://www.linkedin.com/in/renatonunesan/) [![Gmail Badge](https://img.shields.io/badge/renatonunesan@gmail.com-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
