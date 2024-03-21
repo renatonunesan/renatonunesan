@@ -30,8 +30,8 @@
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
-  <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=00011a&text_color=3269EA&title_color=03C8FC&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=00011a&text_color=3269EA&title_color=03C8FC&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=000022&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=000022&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
 <h3>Connect with me <img width="70px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/84e34743-e391-4334-b557-b24fac20aaf5"/>  </h3>
