@@ -26,11 +26,7 @@
   <img alt="Eclipse" width="80" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </div>
 
-<h3 align="center">My Github stats  <img
-  src="https://github.com/renatonunesan/renatonunesan/assets/153360955/e37bfbfd-7a84-479f-b1a2-2955c8fe839e"
-  width="20px"
-  height="20px"
-/></h3>
+<h3 align="center">My Github stats </h3>
 
 <div align="center">
   <a href="https://github.com/renatonunesan">
