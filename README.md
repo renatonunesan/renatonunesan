@@ -13,8 +13,8 @@
 <a></a>
 
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
   <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"></a>
@@ -22,9 +22,9 @@
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 <br>  
 <br>
-  <img alt="VScode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
-  <img alt="IntelliJ" width="125" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="Eclipse" width="80" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VScode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img alt="IntelliJ" width="125" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  <a href="https://www.eclipse.org/downloads/" target="_blank"><img alt="Eclipse" width="80" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
 </div>
 
 <h3 align="center">My Github stats <img width="18px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/8333abd2-d9c2-4adc-a26e-d0d09355ec61"></img></h3>
