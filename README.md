@@ -13,7 +13,7 @@
 <a></a>
 
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="blank"><img align="center" alt="html" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
