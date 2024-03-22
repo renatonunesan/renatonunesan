@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=1000&color=F7F7F7&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+ans+Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=5000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+ans+Languages" alt="Typing SVG" /></a>
 <table><tr><td valign="center" width="503px" height="60px">
   <div align="center">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
@@ -32,7 +32,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=1000&color=F7F7F7&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=My+Github+stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=5000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=My+Github+stats" alt="Typing SVG" /></a>
   <img width="55.6%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
   <img width="43.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
