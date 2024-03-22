@@ -8,8 +8,10 @@
 
 <hr>
 
+
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=F7F7F7&background=131f4d&center=true&vCenter=true&random=false&height=35&lines=My+stack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=F7F7F7&background=131f4d&center=true&vCenter=true&random=false&height=35&lines=My+stack+%F0%9F%93%9A" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
@@ -26,9 +28,10 @@
   <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img alt="IntelliJ" width="130" src="https://img.shields.io/badge/IntelliJ_IDEA-131f4d.svg?style=for-the-badge&logo=intellij-idea&logoColor=2efdfe"/></a>
   <a href="https://www.eclipse.org/downloads/" target="_blank"><img alt="Eclipse" width="90" src="https://img.shields.io/badge/Eclipse-131f4d?style=for-the-badge&logo=eclipse&logoColor=2efdfe"/></a>
 </div>
-
-<h3 align="center">My Github stats <img width="18px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/8333abd2-d9c2-4adc-a26e-d0d09355ec61"></img></h3>
-
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=F7F7F7&background=0a1027&center=true&vCenter=true&random=false&width=850&height=35&lines=My+Github+stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
+</div>
 <div align="center">
   <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
