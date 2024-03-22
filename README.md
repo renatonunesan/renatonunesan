@@ -24,7 +24,6 @@
   <div align= "center">
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="VScode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a>
     <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
-    <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/></a>
     <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img align="center" alt="IntelliJ" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/></a>
     <a href="https://www.eclipse.org/downloads/" target="_blank"><img align="center" alt="Eclipse" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/></a>
     <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
