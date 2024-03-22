@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=5000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+ans+Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=5000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+and+technologies+" alt="Typing SVG" /></a>
 <table><tr><td valign="center" width="503px" height="60px">
   <div align="center">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
