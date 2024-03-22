@@ -12,11 +12,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=5000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+and+technologies+" alt="Typing SVG" /></a>
 <table><tr><td valign="center" width="503px" height="60px">
   <div align="center">
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://skillicons.dev/icons?i=html"></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css3" height="35" width="45" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-    <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-    <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+    <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="40" width="50" src="https://techstack-generator.vercel.app/react-icon.svg"></a>
+    <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
   </div>
 
 </td><td valign="center" width="397px" height="60px">
