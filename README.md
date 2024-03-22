@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=F7F7F7&background=131f4d&center=true&vCenter=true&random=false&height=35&lines=My+stack+%F0%9F%93%9A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=28d7db&background=131f4d&center=true&vCenter=true&random=false&height=35&lines=My+stack+%F0%9F%93%9A" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
@@ -30,7 +30,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=F7F7F7&background=0a1027&center=true&vCenter=true&random=false&width=711&height=35&lines=My+Github+stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=28d7db&background=0a1027&center=true&vCenter=true&random=false&width=711&height=35&lines=My+Github+stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
 </div>
 <div align="center">
   <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
