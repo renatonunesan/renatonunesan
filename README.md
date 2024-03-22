@@ -6,8 +6,8 @@
 
 > I´m a Front-end developer based in Brazil, currently studying `ADS`(Analysis and systems development) and learning `JavaScript`
 
-<hr>
-
+<img src="https://github.com/renatonunesan/renatonunesan/assets/153360955/0d1dda33-a2db-4dca-8f9c-a3712f4efbe8"/>
+<br>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=5000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+and+technologies+" alt="Typing SVG" /></a>
 <table><tr><td valign="center" width="503px" height="60px">
