@@ -25,6 +25,7 @@
   <a href="https://www.eclipse.org/downloads/" target="_blank"><img alt="Eclipse" width="90" src="https://img.shields.io/badge/Eclipse-131f4d?style=for-the-badge&logo=eclipse&logoColor=2efdfe"/></a>
 </div>
 <br>
+<br>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=28d7db&background=0a1027&center=true&vCenter=true&random=false&width=711&height=35&lines=My+Github+stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
 </div>
