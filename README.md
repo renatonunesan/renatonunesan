@@ -20,9 +20,9 @@
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 <br>  
 <br>
-  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VScode" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-  <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img alt="IntelliJ" width="125" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
-  <a href="https://www.eclipse.org/downloads/" target="_blank"><img alt="Eclipse" width="80" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VScode" width="170" src="https://img.shields.io/badge/Visual_Studio_Code-15397e?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img alt="IntelliJ" width="130" src="https://img.shields.io/badge/IntelliJ_IDEA-15397e.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  <a href="https://www.eclipse.org/downloads/" target="_blank"><img alt="Eclipse" width="90" src="https://img.shields.io/badge/Eclipse-15397e?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
 </div>
 
 <h3 align="center">My Github stats <img width="18px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/8333abd2-d9c2-4adc-a26e-d0d09355ec61"></img></h3>
