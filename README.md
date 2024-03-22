@@ -25,10 +25,9 @@
   <a href="https://www.eclipse.org/downloads/" target="_blank"><img alt="Eclipse" width="90" src="https://img.shields.io/badge/Eclipse-131f4d?style=for-the-badge&logo=eclipse&logoColor=2efdfe"/></a>
 </div>
 <br>
-<br>
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&color=28d7db&background=0a1027&center=true&vCenter=true&random=false&width=711&height=35&lines=My+Github+stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
-</div>
+
+<h3 align="center">My Github stats <img width="18px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/8333abd2-d9c2-4adc-a26e-d0d09355ec61"></img></h3>
+
 <div align="center">
   <img width="46.8%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
