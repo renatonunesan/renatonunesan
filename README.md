@@ -8,6 +8,10 @@
 
 <hr>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=1000&color=F7F7F7&background=094D79&center=true&vCenter=true&random=false&height=35&lines=My+stack" alt="Typing SVG" /></a>
+</div>
+
 <h3 align="center">My stack <img width="30px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/405766f9-a713-4bcb-8e85-211d7f7e2f71"/> </h3>
 
 <div align="center">
