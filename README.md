@@ -8,8 +8,6 @@
 
 <hr>
 
-<h3 align="center">My stack <img width="30px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/405766f9-a713-4bcb-8e85-211d7f7e2f71"/> </h3>
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=1000&color=F7F7F7&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+ans+Languages" alt="Typing SVG" /></a>
 <table><tr><td valign="center" width="503px" height="60px">
@@ -32,10 +30,9 @@
   </div>
 </td></tr></table>  
 </div>
-
-<h3 align="center">My Github stats <img width="18px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/8333abd2-d9c2-4adc-a26e-d0d09355ec61"></img></h3>
-
+<br>
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=1000&color=F7F7F7&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=My+Github+stats+%F0%9F%93%8A" alt="Typing SVG" /></a>
   <img width="55.6%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
   <img width="43.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
