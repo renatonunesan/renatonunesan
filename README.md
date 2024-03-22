@@ -17,17 +17,17 @@
     <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
     <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
     <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-    <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"></a>
     <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-    <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
   </div>
 
 </td><td valign="center" width="397px" height="60px">
   <div align= "center">
-    <a href="https://code.visualstudio.com/" target="_blank"><img alt="VScode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a>
-    <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/></a>
-    <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img alt="IntelliJ" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/></a>
-    <a href="https://www.eclipse.org/downloads/" target="_blank"><img alt="Eclipse" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="VScode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a>
+    <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
+    <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/></a>
+    <a href="https://www.jetbrains.com/idea/?var=1" target="_blank"><img align="center" alt="IntelliJ" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/></a>
+    <a href="https://www.eclipse.org/downloads/" target="_blank"><img align="center" alt="Eclipse" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
   </div>
 </td></tr></table>  
 </div>
