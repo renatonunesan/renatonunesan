@@ -10,14 +10,14 @@
 
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=5000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+and+technologies+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+and+technologies+" alt="Typing SVG" /></a>
 <table><tr><td valign="center" width="503px" height="60px">
   <div align="center">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css3" height="35" width="45" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
     <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-    <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="60" width="60" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/490e8d46-7fee-498a-9149-b1757d2429bd"></a>
+    <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"></a>
   </div>
 
 </td><td valign="center" width="397px" height="60px">
@@ -32,7 +32,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=5000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=My+Github+stats" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=2efdfe&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=My+Github+stats" alt="Typing SVG" /></a>
   <img width="55.6%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
   <img width="43.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=2efdfe&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
