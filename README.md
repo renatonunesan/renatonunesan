@@ -17,7 +17,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css3" height="35" width="45" src="https://skillicons.dev/icons?i=css"></a>
     <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
     <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-    <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+    <a href="https://www.java.com/en/" target="_blank"><img align="center" alt="Java"  height="60" width="60" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/490e8d46-7fee-498a-9149-b1757d2429bd"></a>
   </div>
 
 </td><td valign="center" width="397px" height="60px">
