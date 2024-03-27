@@ -45,4 +45,3 @@
 
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:79ffff,20:27ffff,40:0053f2,60:14397d,80:112a5a,100:0a1027&reversal=true&height=80&section=footer"/>
