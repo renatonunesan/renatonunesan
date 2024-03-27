@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:b5d8ee,25:84cfff,50:2C67D4,75:172660,100:0a1122&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
-
-<img align="center" width="850px" alt="Sung Banner" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/c9acb7bb-f5ae-4e2a-9dae-ee3abc2a1b1c" />
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:79ffff,20:27ffff,40:0053f2,60:14397d,80:112a5a,100:0a1027&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 
 <h3>About me :</h3>
 
@@ -10,7 +8,7 @@
 
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=84cfff&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+and+technologies+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=27ffff&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=Tools+and+technologies+" alt="Typing SVG" /></a>
 <table><tr><td valign="center" width="503px" height="60px">
   <div align="center">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://skillicons.dev/icons?i=html"></a>
@@ -32,19 +30,19 @@
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=84cfff&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=My+Github+stats" alt="Typing SVG" /></a>
-  <img width="55.6%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=84cfff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="43.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=84cfff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=27ffff&background=0a1027&center=true&vCenter=true&random=false&width=900&height=40&lines=My+Github+stats" alt="Typing SVG" /></a>
+  <img width="55.6%" src="https://github-readme-stats.vercel.app/api?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=27ffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="43.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonunesan&bg_color=0a1027&text_color=0053f2&title_color=27ffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
 <h3 align="center">Connect with me <img width="50px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
 
 <h3 align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a1027?style=for-the-badge&logo=linkedin&logoColor=84cfff&color:00247b)](https://www.linkedin.com/in/renatonunesan/)
-  [![Instagram](https://img.shields.io/badge/-instagram-0a1027?style=for-the-badge&logo=instagram&logoColor=84cfff&color:00247b)](https://www.instagram.com/renatonunesan/)
-  [![Gmail Badge](https://img.shields.io/badge/gmail-0a1027?style=for-the-badge&logo=Gmail&logoColor=84cfff&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a1027?style=for-the-badge&logo=linkedin&logoColor=27ffff&color:00247b)](https://www.linkedin.com/in/renatonunesan/)
+  [![Instagram](https://img.shields.io/badge/-instagram-0a1027?style=for-the-badge&logo=instagram&logoColor=27ffff&color:00247b)](https://www.instagram.com/renatonunesan/)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-0a1027?style=for-the-badge&logo=Gmail&logoColor=27ffff&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
 
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5d8ee,25:84cfff,50:2C67D4,75:172660,100:0a1122&reversal=true&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:79ffff,20:27ffff,40:0053f2,60:14397d,80:112a5a,100:0a1027&reversal=true&height=80&section=footer"/>
